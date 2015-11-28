@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hallo Dunia"
+title:  "Deploy Django di OpenShift"
 date:   2015-11-28 23:49:00 +0700
 categories: cerita
 ---

@@ -318,3 +318,7 @@ Section "Screen"
 EndSection
 
 ```
+
+### Link Refrensi
+1. [Wiki Ubuntu](https://wiki.ubuntu.com/X/Config/Resolution)
+2. [Ubuntu Forum](http://ubuntuforums.org/showthread.php?t=1850578)
